@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+This is a placeholder account. You can find me under https://github.com/ff6347
+
+## Fun Fact
+
+I have another placeholder, if you can find it I call you mister super detective for the rest of your life.
 
 <!--
 **fabianmoronzirfas/fabianmoronzirfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
